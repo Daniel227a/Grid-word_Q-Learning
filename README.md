@@ -23,3 +23,5 @@
   
 **example:**
 - `-python gridworld.py -a q -k 120 -r 0.01`
+
+![values after episodes](https://github.com/Daniel227a/Grid-word_Q-Learning/blob/main/Captura%20de%20tela%20de%202023-07-24%2013-23-24.png)
