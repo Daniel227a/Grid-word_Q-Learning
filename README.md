@@ -22,4 +22,4 @@
 - `-v, --valueSteps`: Exibir cada etapa da iteração de valor.
   
 **example:**
-- `-python,gridworld.py -a q -k 120 -r 0.01
+- `-python gridworld.py -a q -k 120 -r 0.01`
