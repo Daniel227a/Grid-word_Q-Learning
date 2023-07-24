@@ -20,5 +20,5 @@
 - `-s S, --speed=S`: Velocidade da animação, S > 1.0 é mais rápida, 0.0 < S < 1.0 é mais lenta (padrão 1.0).
 - `-m, --manual`: Controlar manualmente o agente.
 - `-v, --valueSteps`: Exibir cada etapa da iteração de valor.
-
-- example:python gridworld.py -a q -k 120 -r 0.01
+**example:**
+- `python,gridworld.py -a q -k 120 -r 0.01
